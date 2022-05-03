@@ -1,1 +1,1 @@
-# Comparitive-Study-Of-Age-Ethinicity-and-Gender-Classification-via-Faces
+# Comparitive Study Of Age, Ethinicity and Gender Classification via Faces
