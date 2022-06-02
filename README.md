@@ -22,3 +22,5 @@ As far as the fine-tuning configurations are in concern, the following were perf
 2. According to the Mean, Variance and Standard Deviation desired for the proper functionality of the pipeline, the input data was normalized (To the centralized Single-Peak Traditional Gaussian Distribution).
 3. Random_Seed was set to 129, Training Epochs were set to 10 and the Train-Test Split was decided to be kept as 80-20.
 4. If GPU is enabled, then Batch-Size of 64 was defined, else 32.
+
+For witnessing the internal working of the Pre-Trained Convolutional Neural Networks, one of the renowned methods is Grad-CAM, which utilizes the activations of the Neural Network Layers, when backpropagated with the class label's stimuli signal. This procedure leads to the impression of certain activation functions and assorted components like poolings, convolution kernels, etc. on the Input Data in the form of Probabilistic Heatmaps (RGB, in decreasing order of attention).
