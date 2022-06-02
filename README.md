@@ -24,3 +24,9 @@ As far as the fine-tuning configurations are in concern, the following were perf
 4. If GPU is enabled, then Batch-Size of 64 was defined, else 32.
 
 For witnessing the internal working of the Pre-Trained Convolutional Neural Networks, one of the renowned methods is Grad-CAM, which utilizes the activations of the Neural Network Layers, when backpropagated with the class label's stimuli signal. This procedure leads to the impression of certain activation functions and assorted components like poolings, convolution kernels, etc. on the Input Data in the form of Probabilistic Heatmaps (RGB, in decreasing order of attention).
+
+# Contributors
+
+1. [Ronak Singhvi](https://github.com/ronak-7228)
+2. [Misaal Khan](https://www.linkedin.com/in/misaalkhan/)
+3. [Kwanit Gupta (me)](https://github.com/kwanit1142)
