@@ -45,7 +45,9 @@ As far as the fine-tuning configurations are in concern, the following were perf
 
 ## Grad-CAM
 
-For witnessing the internal working of the Pre-Trained Convolutional Neural Networks, one of the renowned methods is Grad-CAM, which utilizes the activations of the Neural Network Layers, when backpropagated with the class label's stimuli signal. This procedure leads to the impression of certain activation functions and assorted components like poolings, convolution kernels, etc. on the Input Data in the form of Probabilistic Heatmaps (RGB, in decreasing order of attention).
+![Screenshot (1290)](https://user-images.githubusercontent.com/54277039/174303389-93b2a1a7-f600-4e91-8af5-3d78fd55496d.png)
+
+For witnessing the internal working of the Pre-Trained Convolutional Neural Networks, one of the renowned methods is `Grad-CAM`, which utilizes the activations of the Neural Network Layers, when backpropagated with the class label's stimuli signal. This procedure leads to the impression of certain activation functions and assorted components like poolings, convolution kernels, etc. on the Input Data in the form of Probabilistic Heatmaps (RGB, in decreasing order of attention).
 
 # Contributors
 
