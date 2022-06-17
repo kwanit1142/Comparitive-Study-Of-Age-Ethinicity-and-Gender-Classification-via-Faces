@@ -11,8 +11,16 @@
 The following label columns were present alongside their corresponding variations:-
 
 1. `Age` :- Discretized Integer Quantity, ranging from 1 to 100s.
+ 
+![Screenshot (1267)](https://user-images.githubusercontent.com/54277039/174302626-79e2ec61-3ae0-45cb-8c0c-ee57e78f255e.png)
+
 2. `Gender` :- String based Classes, either Male or Female.
+
+![Screenshot (1269)](https://user-images.githubusercontent.com/54277039/174302648-670e71b1-e15f-40d3-a07f-da4caca8e789.png)
+
 3. `Ethnicity` :- String based Classes; White, Black, Indian, Asian or Hispanic.
+
+![Screenshot (1268)](https://user-images.githubusercontent.com/54277039/174302638-4fc8b6ef-f63a-4ebb-a56b-25a3a4c53f77.png)
 
 ## Models
 
