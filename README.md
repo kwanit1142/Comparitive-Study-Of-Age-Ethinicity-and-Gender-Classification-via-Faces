@@ -1,10 +1,12 @@
 # Comparitive Study Of Age, Ethinicity and Gender Classification via Faces
 
-## About
-
 <p align="center">
   <img width="900" height="450" src="https://user-images.githubusercontent.com/54277039/171485360-c426e41d-583e-4a97-82be-1b638195caab.png">
 </p>
+
+## About
+
+The project is a comparative study of 4 SOTA Models in which we have performed exploratory comparison of human facial images of different `Age`, `Gender` and `Ethnicity`. The models which we have used are `ResNet50`, `VGG19`, `MobileNetV2` and `AlexNet`. These are compared in terms of `classification performance` and `heatmap generation`. This study provides explainability to the model predictions in addition to their efficiency in the said classification task.
 
 ## Dataset
 
