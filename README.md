@@ -41,8 +41,11 @@ This repository focuses on the internal working of Pre-Trained Convolutional Neu
 As far as the fine-tuning configurations are in concern, the following were performed:-
 
 1. Original Image size was `48x48`. It was then resized to `224x224`, since most of the Neural Network Architectures follow the same input convention.
+
 2. According to the Mean, Variance and Standard Deviation desired for the proper functionality of the pipeline, the input data was `normalized` (To the centralized Single-Peak Traditional Gaussian Distribution).
-3. `Random_Seed` was set to `129`, `Training Epochs` were set to 10 and the `Train-Test Split` was decided to be kept as 80-20.
+
+3. `Random_Seed` was set to `129`, `Training Epochs` were set to `10` and the `Train-Test Split` was decided to be kept as `80-20`.
+
 4. If `GPU is enabled`, then Batch-Size of `64` was defined, else `32`.
 
 ## Grad-CAM
